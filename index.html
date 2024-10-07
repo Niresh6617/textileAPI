@@ -11,8 +11,8 @@
         const httpcreate =new XMLHttpRequest();
         httpcreate.open("GET","data.json");
         httpcreate.onload=function(){
-            console.log(this.responseText);
-                
+            let objectformate=JSON.parse(this.responseText);
+            console.log(objectformate);
             
         }
         httpcreate.send();
