@@ -6,4 +6,4 @@
             - In JSON format
 
 API => 👇👇👇👇👇👇👇👇👇👇👇👇👇👇
-url: https://Niresh6617.github.io/textileAPI/data.jso
+url: https://Niresh6617.github.io/textileAPI/data.json
