@@ -1,6 +1,23 @@
-{
-    "userId": 1,
-    "id": 1,
-    "title": "delectus aut autem",
-    "completed": false
-}
+[
+    {
+    "id":100,
+    "Name":"Niresh",
+    "Dept":"Information Technology",
+    "YOP": 2022,
+    "location":"Avadi"
+    },
+    {
+        "id":101,
+        "Name":"Nithesh",
+        "Dept":"Computer Science",
+        "YOP": 2022,
+        "location":"Avadi"
+    },
+    {
+        "id":103,
+        "Name":"Yogesh",
+        "Dept":"Chemical engineering",
+        "YOP": 2023,
+        "location":"Chennai"
+    }
+]
